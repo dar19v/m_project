@@ -15,3 +15,11 @@ my first test Git repo
 ***жирный курсив***
 
 `здесь должен быть код`
+
+Экранирование самого слеша: \\
+
+> "цитата" - сказал автор
+
+
+* <https://github.com/dar19v/m_project/edit/master/README.md>
+* [файл Readme.md](https://github.com/dar19v/m_project/edit/master/README.md "кликните тут для навигации")
