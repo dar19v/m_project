@@ -1,4 +1,4 @@
-![картинка](https://static.vecteezy.com/system/resources/thumbnails/024/316/087/small_2x/project-management-marketing-analysis-and-development-online-successful-strategy-motivation-and-leadership-modern-flat-cartoon-style-illustration-on-white-background-vector.jpg)
+[![картинка](https://static.vecteezy.com/system/resources/thumbnails/024/316/087/small_2x/project-management-marketing-analysis-and-development-online-successful-strategy-motivation-and-leadership-modern-flat-cartoon-style-illustration-on-white-background-vector.jpg)](https://github.com/dar19v/m_project/tree/master)
 
 <a id = "readme-top"></a>
 
